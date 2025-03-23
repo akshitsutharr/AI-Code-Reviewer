@@ -1,2 +1,16 @@
-node_modules
+# Node modules
+node_modules/
+# Environment variables
 .env
+.env.local
+# Build directories
+build/
+dist/
+# Editor files
+.vscode/
+.idea/
+# Logs
+*.log
+# Dependencies
+package-lock.json
+yarn.lock
